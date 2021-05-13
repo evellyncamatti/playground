@@ -29,7 +29,7 @@ Geralmente o primeiro passo para começar é instalar dependências para rodar o
 apt get install dependencia
 ```
 
-Recomenda-se que cada comando seja colocado em uma linha diferente:
+Recomenda-se que cada comando seja colocado em uma linha diferente:oiiii
 
 ```
 apt get install outra-coisa
